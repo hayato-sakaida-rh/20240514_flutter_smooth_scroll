@@ -1,6 +1,8 @@
 # Flutterで画像付きリストをスムーズにスクロールするデモ
 <img width="200" src="./docs/ss.png"><br/>
 
+テックブログ：https://techblog.reazon.jp/entry/2024/03/07/150348
+
 ## 使用技術
 Flutter
 
