@@ -1,4 +1,4 @@
-# flutter_smooth_scroll_2
+# Flutterで画像付きリストをスムーズにスクロールするデモ
 <img width="200" src="./docs/ss.png"><br/>
 
 ## 使用技術
