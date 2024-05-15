@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_smooth_scroll_2/home.dart';
+import 'package:flutter_smooth_scroll_2/pages/home.dart';
 
 void main() {
   runApp(const MyApp());

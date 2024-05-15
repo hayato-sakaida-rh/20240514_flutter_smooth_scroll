@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_smooth_scroll_2/consts.dart';
+import 'package:flutter_smooth_scroll_2/configs/consts.dart';
 import 'package:gap/gap.dart';
 
 class ImageScrollPage extends StatefulWidget {

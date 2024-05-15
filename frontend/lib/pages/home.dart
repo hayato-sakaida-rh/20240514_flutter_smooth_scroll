@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_smooth_scroll_2/cache_blur_image_scroll.dart';
-import 'package:flutter_smooth_scroll_2/cache_image_scroll.dart';
-import 'package:flutter_smooth_scroll_2/image_scroll.dart';
-import 'package:flutter_smooth_scroll_2/settings.dart';
-import 'package:flutter_smooth_scroll_2/text_scroll.dart';
+import 'package:flutter_smooth_scroll_2/pages/cache_blur_image_scroll.dart';
+import 'package:flutter_smooth_scroll_2/pages/cache_image_scroll.dart';
+import 'package:flutter_smooth_scroll_2/pages/image_scroll.dart';
+import 'package:flutter_smooth_scroll_2/pages/settings.dart';
+import 'package:flutter_smooth_scroll_2/pages/text_scroll.dart';
 
 class TabInfo {
   TabInfo({required this.text, required this.widget});

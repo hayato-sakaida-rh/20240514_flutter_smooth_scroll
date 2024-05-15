@@ -1,8 +1,8 @@
 import 'package:blur/blur.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_smooth_scroll_2/consts.dart';
-import 'package:flutter_smooth_scroll_2/custom_cache_manager.dart';
+import 'package:flutter_smooth_scroll_2/configs/consts.dart';
+import 'package:flutter_smooth_scroll_2/configs/custom_cache_manager.dart';
 import 'package:gap/gap.dart';
 
 class CacheBlurImageScrollPage extends StatefulWidget {

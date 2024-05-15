@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_smooth_scroll_2/consts.dart';
+import 'package:flutter_smooth_scroll_2/configs/consts.dart';
 
 class TextScrollPage extends StatefulWidget {
   const TextScrollPage({super.key});
